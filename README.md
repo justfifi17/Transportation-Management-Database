@@ -1,1 +1,1 @@
-### A database that will support a car business to maintain their information in a database system
+### A database that supports a small car business to maintain their information in a database system
